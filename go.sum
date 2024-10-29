@@ -1,10 +1,4 @@
-github.com/HugoBlox/all-access v0.0.0-20241020153424-0ae862852d74 h1:uZ6KTUVPi2QJl67Ul7ogzo8q2jeKo8tfp1EbrfhxgOA=
-github.com/HugoBlox/all-access v0.0.0-20241020153424-0ae862852d74/go.mod h1:J+uANL41R6r0tDLIMH0olEdkod4lsK/+Kn/TA0dImIU=
-github.com/HugoBlox/all-access/blox-all-access v0.0.0-20241020153424-0ae862852d74 h1:3ueY5qbHrWf70OZLtYiqht4WDEz+MsXqtSBpGPQHwds=
-github.com/HugoBlox/all-access/blox-all-access v0.0.0-20241020153424-0ae862852d74/go.mod h1:AifD8GneU4Gu9fWU2WONrTOdu+MpTqJw0TPVVWKb50s=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20241027205850-adc14f11d2fc h1:sVUO+ACC0Q/FUvJK5QjUjGuvobyvQ1+IGwE4zaJGKII=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20241027205850-adc14f11d2fc/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20241012174104-661cadc17327 h1:5P+3GBud67lEhxVevV2UbAZccMBMZnmsmSpP1amosXM=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20241012174104-661cadc17327/go.mod h1:bUQKSt1XQhk60nSpI6D+MibQi6v8s7HghF5qoAtlhws=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.3.0 h1:W6YgfER+csbFcRC3o3dvCXLhs2aYoMncpsL8CEkHpY8=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.3.0/go.mod h1:bUQKSt1XQhk60nSpI6D+MibQi6v8s7HghF5qoAtlhws=
