@@ -1,0 +1,14 @@
+module github.com/HugoBlox/hugo-blox-builder/starters/blog
+
+go 1.22
+
+toolchain go1.23.2
+
+require (
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20241027205850-adc14f11d2fc
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.3.0
+)
+
+require github.com/HugoBlox/all-access/blox-all-access v0.0.0-20241020153424-0ae862852d74 // indirect
+
+// require github.com/HugoBlox/all-access/blox-all-access v0.0.0-20240506024847-96f2f37c71bb
